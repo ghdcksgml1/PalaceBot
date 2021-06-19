@@ -71,7 +71,7 @@ def start():
 
 #Tkinter
 window = Tk()
-window.iconbitmap(default='C:/Education/PalaceBot/palace-skateboards.ico')
+#window.iconbitmap(default='C:/Education/PalaceBot/palace-skateboards.ico')
 window.title("PALACE BOT")
 window.geometry("500x300+100+100")
 window.resizable(False,False)
