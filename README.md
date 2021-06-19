@@ -2,16 +2,6 @@
 <html>
     <head>
         <meta charset="utf-8"/>
-        <title>주의 사항</title>
-        <style>
-            h1{
-                color:red;
-            }
-            ul li{
-                font-weight: bold;
-                font-size:25px;
-            }
-        </style>
     </head>
     <body>
         <h1>오류발생 원인</h1>
