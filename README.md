@@ -14,6 +14,4 @@
             스크롤 하지 않은 상태에서의 상품만 카트에 담을 수 있습니다.</p>
 <<<<<<< HEAD:ReadMe.html
 </html>
-=======
-</html>
->>>>>>> b3c7e5c5f0f30e1aa6e9161a742df226c8fe08fb:README.md
+
