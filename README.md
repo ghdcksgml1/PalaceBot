@@ -1,9 +1,10 @@
-# <img width="33" alt="스크린샷 2021-07-21 오전 1 25 13" src="https://user-images.githubusercontent.com/79779676/126360636-a72e245a-bc2e-4626-b23b-c414e3e1da04.png"> PALACE BOT <img width="33" alt="스크린샷 2021-07-21 오전 1 25 13" src="https://user-images.githubusercontent.com/79779676/126360693-1ed3982b-28d3-4f29-a538-7a35b8260b91.png">
+# <img width="33" alt="스크린샷 2021-07-21 오전 1 25 13" src="https://user-images.githubusercontent.com/79779676/126360636-a72e245a-bc2e-4626-b23b-c414e3e1da04.png"> PALACE BOT (Windows 10) <img width="33" alt="스크린샷 2021-07-21 오전 1 25 13" src="https://user-images.githubusercontent.com/79779676/126360693-1ed3982b-28d3-4f29-a538-7a35b8260b91.png">
 
 <br/><br/>
 
 
 <img width="948" alt="스크린샷 2021-07-21 오전 1 22 35" src="https://user-images.githubusercontent.com/79779676/126360274-f77f8238-76d8-4c8e-b5fe-374f25c3b1cb.png">
+
 
 <br/><br/><br/>
 
@@ -31,12 +32,18 @@
 
 <br/><br/>
 
-### ![icons8-python-48](https://user-images.githubusercontent.com/79779676/126363111-57fdad9e-f8e6-4d4f-908d-2dc0dba9a606.png)Python 3.9  Module ( selenium, bs4, tkinter )
+### ![icons8-python-48](https://user-images.githubusercontent.com/79779676/126363111-57fdad9e-f8e6-4d4f-908d-2dc0dba9a606.png)Python 3.9 + Module ( selenium, bs4, tkinter )
 ### ![icons8-google-48](https://user-images.githubusercontent.com/79779676/126363753-5eded8a9-8dee-4b0f-9906-bfca4d24ac78.png) chormedriver
 
 - 설치되어 있는 크롬의 버전과 설치할 webdriver의 버전이 일치해야 합니다. ( 오류의 원인 )
 
 <img width="1192" alt="스크린샷 2021-07-21 오전 2 33 07" src="https://user-images.githubusercontent.com/79779676/126369549-8f36df56-9b23-4e6e-80a2-1162128bf9e1.png">
+
+<br/>
+
+### 다운로드 링크
+* python : https://www.python.org/downloads/
+* chrome driver : https://chromedriver.chromium.org/downloads
 
 <br/><br/><br/>
 
