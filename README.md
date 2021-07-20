@@ -60,9 +60,7 @@
 
 <br/>
 
-하지만, 대학교 1학년 때 Python 수업에서 배운 tkinter를 이용해 조금은 허접하지만 사용자가 원하는 입력값을 넣을 수 있게
-
-GUI를 구현해봤다. (V.2)
+하지만, 대학교 1학년 때 Python 수업에서 배운 tkinter를 이용해 조금은 허접하지만 사용자가 원하는 입력값을 넣을 수 있게 GUI를 구현해봤다. (V.2)
 
 ![image](https://user-images.githubusercontent.com/79779676/126366291-8a3eae4c-253a-46e9-8a7a-d5c47332758a.png)
 
