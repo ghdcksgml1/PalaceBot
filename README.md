@@ -63,13 +63,19 @@
 
 [나동빈님 selenium 강의](https://www.youtube.com/watch?v=UenvOvag0B4) 를 보고서 selenium으로 팔라스 봇을 만들어봐야겠다는
 
-생각이 딱 들었습니다. 처음에는 소스코드로만 구현해서 상품이나 사이즈를 바꾸려면 직접 파일을 열어 바꿔줘야 했기 때문에 불편함이 있었다. (V.1)
+> 생각이 딱 들었습니다. 처음에는 소스코드로만 구현해서 상품이나 사이즈를 바꾸려면 직접 파일을 열어 바꿔줘야 했기 때문에 불편함이 있었다. (V.1.0)
 
-<br/>
+<br/><br/><br/>
 
-하지만, 대학교 1학년 때 Python 수업에서 배운 tkinter를 이용해 조금은 허접하지만 사용자가 원하는 입력값을 넣을 수 있게 GUI를 구현해봤다. (V.2)
+> 하지만, 대학교 1학년 때 Python 수업에서 배운 tkinter를 이용해 조금은 허접하지만 사용자가 원하는 입력값을 넣을 수 있게 GUI를 구현해봤다. (V.1.1)
 
 ![image](https://user-images.githubusercontent.com/79779676/126366291-8a3eae4c-253a-46e9-8a7a-d5c47332758a.png)
+
+<br/><br/><br/>
+
+> **+추가** 이번에 Desktop을 MacOS 로 바꿔서 Mac 버전 추가 , wevdriver의 경로를 선택할 수 있는 버튼 추가 (V.1.2)
+
+<img width="595" alt="스크린샷 2021-07-21 오후 8 59 00" src="https://user-images.githubusercontent.com/79779676/126485208-8290b8c1-0d77-45bc-9af6-6396667c453b.png">
 
 <br/><br/><br/>
 
@@ -146,6 +152,22 @@
 
 스크롤 하지 않은 상태에서의 상품만 카트에 담을 수 있습니다.
 
+<br/>
+
+### 🚀 chrome_driver MacOS에서 다음과 같은 오류가 뜨면서 실행이 되지 않을 때
+
+<img width="200" alt="스크린샷 2021-07-21 오후 8 35 55" src="https://user-images.githubusercontent.com/79779676/126482660-621f3f7c-bd04-4741-8839-77a0a959071f.png">
+
+MacOS의 보안 정책 때문에 낯선 곳에서 다운받은 파일을 변형시켜 실행시키는데 제한되기 때문에 오류가 뜨게 됩니다.
+
+webdriver가 설치된 경로까지 이동합니다. ex) 저같은 경우는 /Desktop/Chrome_driver/ 가 웹드라이버의 위치입니다.
+
+    $ cd /웹드라이버 설치 경로/
+    
+권한 설정을 바꿔 줍니다.
+
+    $ sudo chmod -R 755
+
 <br/><br/><br/>
 
 ## <img width="34" alt="스크린샷 2021-07-21 오전 2 15 38" src="https://user-images.githubusercontent.com/79779676/126370281-2922dfd4-66b8-4fa7-9217-54b5e2b6b48e.png"> 느낀점 <img width="34" alt="스크린샷 2021-07-21 오전 2 15 38" src="https://user-images.githubusercontent.com/79779676/126370288-c38a1cab-677e-4b1a-938d-37d3e18ce976.png">
@@ -159,5 +181,7 @@
 일상에서 불편하고 어려웠던 것을 이렇게 프로그래밍적으로 해결해 나가는게 정말 재밌고, 성취감도 많이 느낀다.
 
 누군가에게는 허접한 프로그램으로 보일 순 있지만, 그동안 시행착오를 거쳐오면서 처음으로 끝낸 프로젝트라 너무 뜻깊은 프로젝트였다.
+
+<br/><br/>
 
 * * *
