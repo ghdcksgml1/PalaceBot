@@ -138,10 +138,10 @@
 따라서, 크롬에 옵션으로 들어가 버전을 확인 후 버전에 맞는 크롬 드라이버 설치를 하시기 바랍니다.
 
 
-크롬 웹드라이버는 다음과 같은 경로에 저장해주세요.
+~~크롬 웹드라이버는 다음과 같은 경로에 저장해주세요.~~
 
 
-    C:\Chrome_Driver\chromedriver.exe
+~~C:\Chrome_Driver\chromedriver.exe~~
 
 
 <br/>
