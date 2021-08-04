@@ -79,6 +79,16 @@
 
 <br/><br/><br/>
 
+> **+추가** 이번 버전에서는 UI개편과 기능에따라 Frontend.py와 Backend.py로 나누었습니다. 실행은 frontend.py로 실행해주세요. (V.1.3)
+
+<img width="595" alt="Screen Shot 2021-08-04 at 11 28 29 AM" src="https://user-images.githubusercontent.com/79779676/128112423-8d85d541-6f4b-44f1-9199-67d453a53c7b.png">
+
+향후 추가해볼 기능은 PALACESKATEBOARDS 홈페이지의 PREVIEW에서 상품을 클릭하면,
+
+상품 이름이 자동으로 ITEM의 textbox에 기록되는 기능을 추가하려고합니다.
+
+아직 공부가 많이 필요해서 해당 기능은 시간이 조금 걸릴 것 같습니다.
+
 ## <img width="33" alt="스크린샷 2021-07-21 오전 1 25 13" src="https://user-images.githubusercontent.com/79779676/126367492-febbd146-e20d-4c84-8951-3b75498596fd.png"> 작동 원리 <img width="33" alt="스크린샷 2021-07-21 오전 1 25 13" src="https://user-images.githubusercontent.com/79779676/126367503-bdca280b-5a98-403e-9116-d696c03aa8b7.png">
 
 <br/><br/>
