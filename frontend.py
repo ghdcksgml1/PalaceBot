@@ -1,6 +1,7 @@
 from tkinter import *
 import backend
 from tkinter import filedialog as fd
+
 C_driv = ""
 
 def btn_search():
@@ -14,6 +15,8 @@ def btn_start():
 
 
 window = Tk()
+# 제목
+window.title("PALACE BOT")
 
 window.geometry("747x542")
 window.configure(bg = "#ffffff")
