@@ -113,6 +113,15 @@
 
 <br/><br/>
 
+### 실제 구동 영상
+
+ㅋㅋㅋㅋㅋㅋ 바로 봇에 막혔씁니다!
+
+링크 : https://www.youtube.com/shorts/aC9IFRwePeI
+
+<br/><br/>
+
+
 * **조회 버튼** - chrom webdriver를 실행 시킨 뒤, [팔라스 공식홈페이지](https://shop.palaceskateboards.com/) 로 들어갑니다. 
 * **시작 버튼** - label에 모든 정보를 입력하고 시작 버튼을 클릭하게 되면, 새로운 상품이 갱신되기 전에는 [상품개시 전 이미지](https://user-images.githubusercontent.com/79779676/126430857-8739641e-6e55-4b55-8ea8-0b131dc2d3d2.png) 와 같이 화면이 뜹니다. 정시에 상품을 구매할 수 있는 창이 뜨게 되므로, [상품개시 후 이미지](https://user-images.githubusercontent.com/79779676/126431038-4aa5832d-f0dd-4bc8-a429-c768315ca214.png) 가 뜰때까지 계속 새로고침을 한 후, 공식 홈페이지가 뜨게 되면 상품을 찾아 결제 창까지 이동해줍니다.
 
