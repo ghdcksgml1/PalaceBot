@@ -5,7 +5,7 @@ from tkinter import filedialog as fd
 C_driv = ""
 
 def btn_search():
-    print("Button Clicked")
+    print("절대 누르지 마세요!!!!")
     backend.search(C_driv)
 
 def btn_start():
